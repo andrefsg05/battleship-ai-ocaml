@@ -108,3 +108,8 @@ vou eu
 ## Âmbito do projeto
 
 Este projeto foi desenvolvido como trabalho académico para a disciplina de Programação III na Universidade de Évora.
+
+## Autores
+
+- André Gonçalves
+- [André Zhan](https://github.com/andr-zhan)
